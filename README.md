@@ -70,7 +70,7 @@ Then configure the rules you want to use under the rules section.
 
 This plugin exports a recommended configuration that enforces good
 Testing Library practices _(you can find more info about enabled rules
-in [Supported Rules section](#supported-rules) within Recommended
+in [Supported Rules section](#supported-rules) - see the `recommended` tag in the Configurations
 column)_.
 
 To enable this configuration use the `extends` property in your
